@@ -1,0 +1,9 @@
+Boia Monican01 - CSA88 / 1
+2017-04-14T11: 31: 17 + 01: 00
+Type of Station: Ocean Station
+Coordinates: 39-30.943N 009-38.280W
+
+decimal: 39.516389 -9.6375
+voor subset: 39.516389 -9.6975
+
+http://monican.hidrografico.pt/default/monican.php
